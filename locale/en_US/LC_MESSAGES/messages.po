@@ -1,0 +1,129 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: japan1000\n"
+"POT-Creation-Date: 2014-06-06 12:15+0900\n"
+"PO-Revision-Date: 2014-06-06 12:15+0900\n"
+"Last-Translator: Renshuki\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: \n"
+
+msgid "Title"
+msgstr "Sake Chart"
+
+msgid "Contact Us"
+msgstr "Contact us"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Name_validation"
+msgstr "Please enter your name."
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Email_validation"
+msgstr "Please enter a valid e-mail address."
+
+msgid "Message"
+msgstr "Message"
+
+msgid "Message_validation"
+msgstr "Please enter a message."
+
+msgid "Reload Captcha"
+msgstr "Show a different image"
+
+msgid "Code_validation"
+msgstr "Please enter the security code."
+
+msgid "Code"
+msgstr "Please enter the code displayed within the image."
+
+msgid "Send"
+msgstr "Send"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Data"
+msgstr "Data"
+
+msgid "Alcohol degree"
+msgstr "Sake meter value"
+
+msgid "Acidity"
+msgstr "Acidity"
+
+msgid "Colors"
+msgstr "Colors"
+
+msgid "Colors area display"
+msgstr "Colors area display"
+
+msgid "Marker"
+msgstr "Marker"
+
+msgid "Blue"
+msgstr "Blue"
+
+msgid "Green"
+msgstr "Green"
+
+msgid "Red"
+msgstr "Red"
+
+msgid "Pink"
+msgstr "Pink"
+
+msgid "Download"
+msgstr "Download"
+
+msgid "Donate"
+msgstr "Send Us Sake"
+
+msgid "Alcohol degree x Acidity Graph"
+msgstr "SMV x Acidity Graph"
+
+msgid "Or more"
+msgstr " or more"
+
+msgid "Or less"
+msgstr " or less"
+
+msgid "Sweet"
+msgstr "Sweet"
+
+msgid "Dry"
+msgstr "Dry"
+
+msgid "Soft"
+msgstr "Soft"
+
+msgid "Rich"
+msgstr "Rich"
+
+msgid "Tastes"
+msgstr "Tastes"
+
+msgid "Rich and Dry"
+msgstr "Rich and Dry"
+
+msgid "Rich and Sweet"
+msgstr "Rich and Sweet"
+
+msgid "Soft and Sweet"
+msgstr "Soft and Sweet"
+
+msgid "Soft and Dry"
+msgstr "Soft and Dry"
+
+#~ msgid "Send Us Sake"
+#~ msgstr "Send us sake"

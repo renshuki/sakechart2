@@ -1,0 +1,129 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: japan1000\n"
+"POT-Creation-Date: 2014-06-06 12:14+0900\n"
+"PO-Revision-Date: 2014-06-06 12:14+0900\n"
+"Last-Translator: Renshuki\n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: \n"
+
+msgid "Title"
+msgstr "Sake Chart"
+
+msgid "Contact Us"
+msgstr "Nous contacter"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Name_validation"
+msgstr "Veuillez saisir votre nom."
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Email_validation"
+msgstr "Veuillez saisir une adresse e-mail valide."
+
+msgid "Message"
+msgstr "Message"
+
+msgid "Message_validation"
+msgstr "Veuillez saisir un message."
+
+msgid "Reload Captcha"
+msgstr "Afficher une image différente"
+
+msgid "Code_validation"
+msgstr "Veuillez saisir le code de sécurité"
+
+msgid "Code"
+msgstr "Veuillez saisir le code affiché ci-dessus."
+
+msgid "Send"
+msgstr "Envoyer"
+
+msgid "Settings"
+msgstr "Paramètres"
+
+msgid "Data"
+msgstr "Données"
+
+msgid "Alcohol degree"
+msgstr "SMV"
+
+msgid "Acidity"
+msgstr "Acidité"
+
+msgid "Colors"
+msgstr "Couleurs"
+
+msgid "Colors area display"
+msgstr "Zones de couleurs"
+
+msgid "Marker"
+msgstr "Marqueur"
+
+msgid "Blue"
+msgstr "Bleu"
+
+msgid "Green"
+msgstr "Vert"
+
+msgid "Red"
+msgstr "Rouge"
+
+msgid "Pink"
+msgstr "Rose"
+
+msgid "Download"
+msgstr "Télécharger"
+
+msgid "Donate"
+msgstr "Envoyez-nous du Sake"
+
+msgid "Alcohol degree x Acidity Graph"
+msgstr "Graphique (SMV x Acidité)"
+
+msgid "Or more"
+msgstr " ou plus"
+
+msgid "Or less"
+msgstr " ou moins"
+
+msgid "Sweet"
+msgstr "Doux"
+
+msgid "Dry"
+msgstr "Sec"
+
+msgid "Soft"
+msgstr "Léger"
+
+msgid "Rich"
+msgstr "Riche"
+
+msgid "Tastes"
+msgstr "Saveurs"
+
+msgid "Rich and Dry"
+msgstr "Riche et sec"
+
+msgid "Rich and Sweet"
+msgstr "Riche et doux"
+
+msgid "Soft and Sweet"
+msgstr "Léger et doux"
+
+msgid "Soft and Dry"
+msgstr "Léger et sec"
+
+#~ msgid "Send Us Sake"
+#~ msgstr "Envoyez-nous du sake"

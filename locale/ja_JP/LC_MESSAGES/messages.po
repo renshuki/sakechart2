@@ -1,0 +1,129 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: japan1000\n"
+"POT-Creation-Date: 2014-06-06 12:16+0900\n"
+"PO-Revision-Date: 2014-06-06 13:18+0900\n"
+"Last-Translator: Renshuki\n"
+"Language-Team: \n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: \n"
+
+msgid "Title"
+msgstr "日本酒チャート"
+
+msgid "Contact Us"
+msgstr "お問い合わせ"
+
+msgid "Name"
+msgstr "名前"
+
+msgid "Name_validation"
+msgstr "名前を入力してください。"
+
+msgid "Email"
+msgstr "メール"
+
+msgid "Email_validation"
+msgstr "メールを入力してください。"
+
+msgid "Message"
+msgstr "コメント"
+
+msgid "Message_validation"
+msgstr "コメントを入力してください。"
+
+msgid "Reload Captcha"
+msgstr "画像をリロードする"
+
+msgid "Code_validation"
+msgstr "セキュリティコードを入力してください。"
+
+msgid "Code"
+msgstr "上記に表示されてるコードを入力してください。"
+
+msgid "Send"
+msgstr "送信"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "Data"
+msgstr "データ"
+
+msgid "Alcohol degree"
+msgstr "日本酒度"
+
+msgid "Acidity"
+msgstr "酸度"
+
+msgid "Colors"
+msgstr "カラー"
+
+msgid "Colors area display"
+msgstr "エリアカラー表示"
+
+msgid "Marker"
+msgstr "マーカー"
+
+msgid "Blue"
+msgstr "青"
+
+msgid "Green"
+msgstr "緑"
+
+msgid "Red"
+msgstr "赤"
+
+msgid "Pink"
+msgstr "ピンク"
+
+msgid "Download"
+msgstr "ダウンロード"
+
+msgid "Donate"
+msgstr "日本酒頂戴"
+
+msgid "Alcohol degree x Acidity Graph"
+msgstr "日本酒度×酸度グラフ"
+
+msgid "Or more"
+msgstr "以上"
+
+msgid "Or less"
+msgstr "以下"
+
+msgid "Sweet"
+msgstr "甘"
+
+msgid "Dry"
+msgstr "辛"
+
+msgid "Soft"
+msgstr "淡"
+
+msgid "Rich"
+msgstr "濃"
+
+msgid "Tastes"
+msgstr "味わい"
+
+msgid "Rich and Dry"
+msgstr "濃醇辛口"
+
+msgid "Rich and Sweet"
+msgstr "濃醇甘口"
+
+msgid "Soft and Sweet"
+msgstr "淡麗甘口"
+
+msgid "Soft and Dry"
+msgstr "淡麗辛口"
+
+#~ msgid "Send Us Sake"
+#~ msgstr "日本酒頂戴"
